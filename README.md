@@ -1,6 +1,6 @@
 # Bug Tracker
 
-***** Bug Tracker ******
+***** Bug Tracker v. 0.7 ******
 
 AC
 
