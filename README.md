@@ -12,14 +12,17 @@ to use web app, first set up database with the db_export_newest.sql script in My
 
 *** Features Not Implemented ***
 
-Individual page showing details on single bug (other than edit page)
-Viewing list of open tickets for a selected single application
-Email status information to assignee function
-No page showing only open defects
+- Individual page showing details on single bug (other than edit page)
 
-Informative error handling, no dedicated error screens/handling implemented
+- Viewing list of open tickets for a selected single application
 
-Confirmation when deleting
+- Email status information to assignee function
+
+- No page showing only open defects
+
+- Informative error handling, no dedicated error screens/handling implemented
+
+- Confirmation when deleting
 
 *** Other bugs, things in need of fixes ***
 
