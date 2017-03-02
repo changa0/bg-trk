@@ -23,8 +23,13 @@ Confirmation when deleting
 
 *** Other bugs, things in need of fixes ***
 
-prevent resubmission upon refresh (though can be easily deleted)
-tickets aren't automatically closed when app closes (must manually close tickets, might be desirable behavior)
-possibly want to restrict duplicates
-perhaps have a way to reset auto increment through GUI (currently must be done via database)
+-prevent resubmission upon refresh (though can be easily deleted)
+
+-tickets aren't automatically closed when app closes (must manually close tickets, might be desirable behavior)
+
+-possibly want to restrict duplicates
+
+-perhaps have a way to reset auto increment through GUI (currently must be done via database)
+
+-add unit tests
 
