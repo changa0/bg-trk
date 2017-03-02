@@ -1,0 +1,26 @@
+Note database tables are called
+
+- applications 
+- defects
+
+* reliant on user to close tickets before closing app
+
+* restrict defect ticket adds to those in applications -COMPLETED
+
+* Implement the email relevant info to assignee code
+
+* prevent duplicates applications (may not be necessary)
+
+* prevent duplicate submission when refreshing
+
+* handle improper data types in form fields - COMPLETED
+
+* prevent adding bug if app doesn't exist, currently gives foreign key failure, perhaps use dropdown - COMPLETED
+
+* handle adding too many characters for the db, currently MysqlDataTruncation error and null values in db -COMPLETED
+
+* when deleting ticket or app, increment keeps continuing, not sure if good or bad, maybe a reset
+
+* have error messages if database has problem, or is off etc
+
+* time/date as attribute (lower priority)
